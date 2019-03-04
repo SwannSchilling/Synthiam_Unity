@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/JD_Rigged_v04.unity
+  isLoaded: 1
+  isActive: 1

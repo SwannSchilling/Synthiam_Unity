@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 6d7771b2ef6ac6a46bcf0daf36c574c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Foot_L
+    100002: Foot_L_Terminator
+    100004: Foot_R
+    100006: Foot_R_Terminator
+    100008: Head Terminator
+    100010: //RootNode
+    100012: JD_Rig_v01:Body
+    100014: JD_Rig_v01:Head_Rotate
+    100016: JD_Rig_v01:Left_Foot
+    100018: JD_Rig_v01:Left_Lower_Arm
+    100020: JD_Rig_v01:Left_Lower_Leg
+    100022: JD_Rig_v01:Left_Rotate_Shoulder
+    100024: JD_Rig_v01:Left_Upper_Arm
+    100026: JD_Rig_v01:Left_Upperr_Leg
+    100028: JD_Rig_v01:LeftClaw_1
+    100030: JD_Rig_v01:LeftClaw_2
+    100032: JD_Rig_v01:Neck_Up_Down
+    100034: JD_Rig_v01:Right_Claw_1
+    100036: JD_Rig_v01:Right_Claw_2
+    100038: JD_Rig_v01:Right_Foot
+    100040: JD_Rig_v01:Right_Lower_arm
+    100042: JD_Rig_v01:Right_Lower_Leg
+    100044: JD_Rig_v01:Right_Rotate_Shoulder
+    100046: JD_Rig_v01:Right_Upper_Arm
+    100048: JD_Rig_v01:Right_Upper_Leg
+    100050: Root
+    100052: Target_Hips
+    100054: Target_L
+    100056: Target_R
+    100058: TargetSpine
+    400000: Foot_L
+    400002: Foot_L_Terminator
+    400004: Foot_R
+    400006: Foot_R_Terminator
+    400008: Head Terminator
+    400010: //RootNode
+    400012: JD_Rig_v01:Body
+    400014: JD_Rig_v01:Head_Rotate
+    400016: JD_Rig_v01:Left_Foot
+    400018: JD_Rig_v01:Left_Lower_Arm
+    400020: JD_Rig_v01:Left_Lower_Leg
+    400022: JD_Rig_v01:Left_Rotate_Shoulder
+    400024: JD_Rig_v01:Left_Upper_Arm
+    400026: JD_Rig_v01:Left_Upperr_Leg
+    400028: JD_Rig_v01:LeftClaw_1
+    400030: JD_Rig_v01:LeftClaw_2
+    400032: JD_Rig_v01:Neck_Up_Down
+    400034: JD_Rig_v01:Right_Claw_1
+    400036: JD_Rig_v01:Right_Claw_2
+    400038: JD_Rig_v01:Right_Foot
+    400040: JD_Rig_v01:Right_Lower_arm
+    400042: JD_Rig_v01:Right_Lower_Leg
+    400044: JD_Rig_v01:Right_Rotate_Shoulder
+    400046: JD_Rig_v01:Right_Upper_Arm
+    400048: JD_Rig_v01:Right_Upper_Leg
+    400050: Root
+    400052: Target_Hips
+    400054: Target_L
+    400056: Target_R
+    400058: TargetSpine
+    2100000: No Name
+    2100002: Material_#2_49
+    2100004: Material_#2_48
+    2100006: Material_#2_50
+    2100008: Material_#2_51
+    2100010: Material_#2_46
+    2100012: Material_#2_47
+    2100014: Material_#2_45
+    2100016: Material_#2_44
+    2100018: Material_#2_43
+    2100020: Material_#2_6
+    2100022: Material_#2_3
+    2100024: Material_#2_8
+    2100026: Material_#2_7
+    2100028: Material_#2_4
+    2100030: Material_#2_9
+    2100032: Material_#2_11
+    2100034: Material_#2_10
+    2100036: Material_#2_12
+    2100038: Material_#2_13
+    2100040: Material_#2_17
+    2100042: Material_#2_15
+    2100044: Material_#2_14
+    2100046: Material_#2_16
+    2100048: Material_#2_21
+    2100050: Material_#2_18
+    2100052: Material_#2_20
+    2100054: Material_#2_19
+    2100056: Material_#2_22
+    2100058: Material_#2_23
+    2300000: Foot_L
+    2300002: Foot_L_Terminator
+    2300004: Foot_R
+    2300006: Foot_R_Terminator
+    2300008: Head Terminator
+    2300010: JD_Rig_v01:Body
+    2300012: JD_Rig_v01:Head_Rotate
+    2300014: JD_Rig_v01:Left_Foot
+    2300016: JD_Rig_v01:Left_Lower_Arm
+    2300018: JD_Rig_v01:Left_Lower_Leg
+    2300020: JD_Rig_v01:Left_Rotate_Shoulder
+    2300022: JD_Rig_v01:Left_Upper_Arm
+    2300024: JD_Rig_v01:Left_Upperr_Leg
+    2300026: JD_Rig_v01:LeftClaw_1
+    2300028: JD_Rig_v01:LeftClaw_2
+    2300030: JD_Rig_v01:Neck_Up_Down
+    2300032: JD_Rig_v01:Right_Claw_1
+    2300034: JD_Rig_v01:Right_Claw_2
+    2300036: JD_Rig_v01:Right_Foot
+    2300038: JD_Rig_v01:Right_Lower_arm
+    2300040: JD_Rig_v01:Right_Lower_Leg
+    2300042: JD_Rig_v01:Right_Rotate_Shoulder
+    2300044: JD_Rig_v01:Right_Upper_Arm
+    2300046: JD_Rig_v01:Right_Upper_Leg
+    2300048: Root
+    2300050: Target_Hips
+    2300052: Target_L
+    2300054: Target_R
+    2300056: TargetSpine
+    3300000: Foot_L
+    3300002: Foot_L_Terminator
+    3300004: Foot_R
+    3300006: Foot_R_Terminator
+    3300008: Head Terminator
+    3300010: JD_Rig_v01:Body
+    3300012: JD_Rig_v01:Head_Rotate
+    3300014: JD_Rig_v01:Left_Foot
+    3300016: JD_Rig_v01:Left_Lower_Arm
+    3300018: JD_Rig_v01:Left_Lower_Leg
+    3300020: JD_Rig_v01:Left_Rotate_Shoulder
+    3300022: JD_Rig_v01:Left_Upper_Arm
+    3300024: JD_Rig_v01:Left_Upperr_Leg
+    3300026: JD_Rig_v01:LeftClaw_1
+    3300028: JD_Rig_v01:LeftClaw_2
+    3300030: JD_Rig_v01:Neck_Up_Down
+    3300032: JD_Rig_v01:Right_Claw_1
+    3300034: JD_Rig_v01:Right_Claw_2
+    3300036: JD_Rig_v01:Right_Foot
+    3300038: JD_Rig_v01:Right_Lower_arm
+    3300040: JD_Rig_v01:Right_Lower_Leg
+    3300042: JD_Rig_v01:Right_Rotate_Shoulder
+    3300044: JD_Rig_v01:Right_Upper_Arm
+    3300046: JD_Rig_v01:Right_Upper_Leg
+    3300048: Root
+    3300050: Target_Hips
+    3300052: Target_L
+    3300054: Target_R
+    3300056: TargetSpine
+    4300000: Root
+    4300002: Target_Hips
+    4300004: JD_Rig_v01:Left_Upperr_Leg
+    4300006: JD_Rig_v01:Right_Upper_Leg
+    4300008: JD_Rig_v01:Left_Lower_Leg
+    4300010: JD_Rig_v01:Right_Lower_Leg
+    4300012: Foot_L
+    4300014: Foot_R
+    4300016: JD_Rig_v01:Right_Foot
+    4300018: JD_Rig_v01:Left_Foot
+    4300020: Foot_R_Terminator
+    4300022: Foot_L_Terminator
+    4300024: Head Terminator
+    4300026: TargetSpine
+    4300028: JD_Rig_v01:Body
+    4300030: JD_Rig_v01:Neck_Up_Down
+    4300032: JD_Rig_v01:Head_Rotate
+    4300034: JD_Rig_v01:Right_Rotate_Shoulder
+    4300036: JD_Rig_v01:Right_Upper_Arm
+    4300038: JD_Rig_v01:Right_Lower_arm
+    4300040: Target_R
+    4300042: JD_Rig_v01:Right_Claw_2
+    4300044: JD_Rig_v01:Right_Claw_1
+    4300046: JD_Rig_v01:Left_Rotate_Shoulder
+    4300048: JD_Rig_v01:Left_Upper_Arm
+    4300050: JD_Rig_v01:Left_Lower_Arm
+    4300052: Target_L
+    4300054: JD_Rig_v01:LeftClaw_1
+    4300056: JD_Rig_v01:LeftClaw_2
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
